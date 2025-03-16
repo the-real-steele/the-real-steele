@@ -13,3 +13,6 @@
 # Current Activities
 - Exploring STM32 embedded systems
 - MEMS and Sensors
+
+
+Profile photo credit: https://www.pexels.com/@daejeung

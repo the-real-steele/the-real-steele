@@ -1,16 +1,15 @@
-## Hi there 👋
+## Nicholas Steele
+# Education
+- **B.Sc.** in Biochemistry (Medicinal Chemistry) - Arizona State University
+- **B.Eng.** In Biomedical Engineering (Biomedical Devices) - Arizona State University
 
-<!--
-**the-real-steele/the-real-steele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Interests
+- Medical device innovation and development
+- Surgical and diagnostic devices
+- Strategy games (real-time or turn-based)
+- High fantasy
+- Comparative religion
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Current Activities
+- Exploring STM32 embedded systems
+- MEMS and Sensors
